@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler-hpa@sha256:a3941ff9d5bdd728ae6aabdf6c52a2e05888654cfbf9ac26aa8f3e091dbdd30c
+MAINTAINER hatchin
